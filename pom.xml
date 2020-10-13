@@ -28,7 +28,7 @@
 		<google.gson.version>2.8.2</google.gson.version>
 		<logging.lostash.version>4.11</logging.lostash.version>
 		<logging.commons-logging.version>1.2</logging.commons-logging.version>
-		<junit.version>4.8.1</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mockito.core.version>2.23.4</mockito.core.version>
 		<powermock.junit.version>2.0.0</powermock.junit.version>
 		<powermock.core.version>2.0.0</powermock.core.version>
